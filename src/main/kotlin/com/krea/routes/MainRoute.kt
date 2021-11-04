@@ -10,7 +10,7 @@ fun Route.mainRoute() {
         get {
 
             logging(call)
-            call.respondText("Работает!")
+            call.respondText("Работает!!!")
 
         }
 
